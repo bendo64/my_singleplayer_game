@@ -1,0 +1,2 @@
+DEMO V1.0 - Functional demo release
+DEMO V1.1 - Updated combat system
