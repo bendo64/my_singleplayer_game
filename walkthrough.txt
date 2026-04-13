@@ -37,6 +37,10 @@ Farm these until around LVL 15-20
 MINI BOSS
 Go south-east of spawn to find the miniboss. Kill him to get the blueprint for torpedos
 
+
+TORPEDOS
+To gather materials for the torpedos, metal is dropped by the enemy of the first galaxy
+Gunpowder is dropped by the enemy of the second galaxy.
 Fabricate and equip the torpedo weapon.
 
 
