@@ -1,0 +1,31 @@
+MOUNTED (Player inside ship):
+
+MOVEMENT
+W to move forward
+A, D to turn
+Shift to boost (needs boosters equipped)
+
+COMBAT
+Hold R to reload
+Hold S to switch between ammo mode and energy mode (infinite ammo, but requires reloading)
+Press Space or Left click (Introduced in 1.1) to shoot
+1.1:
+Use mouse to aim
+
+OTHER
+Press Q to dismount
+
+DISMOUNTED (Player outside ship):
+
+MOVEMENT
+WASD to move
+
+OTHER
+Hold Space to inspect and interact
+Hold Space while near ship to repair (Requires Repairtool equipped)
+Press Q while near ship to mount
+
+GENERAL :
+Press X to continue dialogue
+Hold Z to speed up dialogue (buggy as of V1.1)
+Press C to skip dialogue WARNING : Most dialogue is to guide the player to objective, not reccomended to skip if not already seen.
