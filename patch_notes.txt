@@ -1,2 +1,3 @@
 DEMO V1.0 - Functional demo release
 DEMO V1.1 - Updated combat system
+DEMO V1.2 - Reworked Enemies (Not bosses & minibosses)
