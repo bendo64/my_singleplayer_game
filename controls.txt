@@ -9,6 +9,9 @@ COMBAT
 Hold R to reload
 Hold S to switch between ammo mode and energy mode (infinite ammo, but requires reloading)
 Press Space or Left click (Introduced in 1.1) to shoot
+
+Press E to switch between primary and secondary blaster.
+
 1.1:
 Use mouse to aim
 
@@ -29,3 +32,4 @@ GENERAL :
 Press X to continue dialogue
 Hold Z to speed up dialogue (buggy as of V1.1)
 Press C to skip dialogue WARNING : Most dialogue is to guide the player to objective, not reccomended to skip if not already seen.
+Press I to expand/collapse temporary inventory UI.
